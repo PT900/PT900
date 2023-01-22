@@ -14,5 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pt900&show_icons=true&theme=onedark&locale=en&layout=compact" alt="pt900" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pt900&show_icons=true&theme=onedark&locale=en" alt="pt900" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pt900&show_icons=true&theme=onedark&locale=en" alt="pt900" /></p>
 
