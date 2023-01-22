@@ -15,7 +15,7 @@
 
 <h3 align="left">My Github stats:</h3>
 <p align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=pt900&show_icons=true&theme=onedark&locale=en" alt="pt900" />
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pt900&show_icons=true&theme=onedark&locale=en&layout=compact" alt="pt900" />
+  <img height="160rem" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pt900&show_icons=true&theme=onedark&locale=en" alt="pt900" />
+  <img height="160rem" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=pt900&show_icons=true&theme=onedark&locale=en&layout=compact" alt="pt900" />
 </p>
 
