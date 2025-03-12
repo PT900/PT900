@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pisanu Boonyaanan (Peat)</h1>
-<h3 align="center">Am pursuing a degree in applied computer science at KMUTT</h3>
+<h3 align="center">Currently working on.</h3>
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **Rust**
 
 - ❤️ I'm interested in **Testing and Security**
 
